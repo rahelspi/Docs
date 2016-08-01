@@ -1,10 +1,10 @@
-![Logo Softplus](./images/ls.png)
+![Logo Softplus](../images/ls.png)
 
 # Configuração para envio de E-mail NFe
-55555
+
 ## Para que serve esta configuração?
 Muitas vezes clientes solicitam que sua DANFE ou [boleto](https://docs.google.com/document/d/1gl5oQnL5VVrrbfEymGZhFXnY9UvW0JA20DF6acUDt0I) sejam enviados por e-mail, ou seja, além da impressão no ato da emissão, o sistema ainda permite que seja enviado o documento para o cliente em PDF. 
-
+<a href="http://example.com/" target="_blank">example</a>
 ## O que é preciso para envio de e-mail via NFe?
 Para envio dos mesmos temos alguns pré requisitos:
 * **Dados do provedor**: Antes de iniciar as configurações o cliente deve ter em mãos os dados passados pelo provedor, tais como servidor SMTP e POP, porta SMTP e POP, login e senha.
