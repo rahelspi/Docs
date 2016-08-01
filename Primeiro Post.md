@@ -1,7 +1,7 @@
 ![Logo Softplus](./images/ls.png)
 
 # Configuração para envio de E-mail NFe
-
+55555
 ## Para que serve esta configuração?
 Muitas vezes clientes solicitam que sua DANFE ou [boleto](https://docs.google.com/document/d/1gl5oQnL5VVrrbfEymGZhFXnY9UvW0JA20DF6acUDt0I) sejam enviados por e-mail, ou seja, além da impressão no ato da emissão, o sistema ainda permite que seja enviado o documento para o cliente em PDF. 
 
