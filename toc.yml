@@ -1,6 +1,8 @@
 
-- name: Articles
+- name: Artigos
   href: articles/
 - name: Api Documentation
   href: api/
   homepage: api/index.md
+- name: SpiNFe
+  href: NFe/
