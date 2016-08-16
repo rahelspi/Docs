@@ -1,5 +1,11 @@
 
-- name: Introduction
+- name: Introdução
   href: intro.md
-- name: Primeiro
-  href: PrimeiroPost.md
+- name: Abastecimento Remanescente
+  href: AbastecimentoRemanescente.md
+- name: Boletos - Cadastro e Emissão
+  href: EmissaoBoletos.md
+- name: NFe e Boletos - Envio por E-mail
+  href: CofigEnvioEmailNFe.md
+- name: XMLs - Conversor Sefaz para SPI
+  href: ConversorXML.md
